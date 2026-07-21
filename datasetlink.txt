@@ -1,0 +1,2 @@
+dataset path: c:\Users\SAMSUNG\Downloads\diabetes.csv
+colab link: https://colab.research.google.com/drive/1WA2vaRzf5nsWd7Zm8So4OS2p4eKT3OLJ#scrollTo=4gUrwmemSEYS
