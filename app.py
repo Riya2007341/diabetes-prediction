@@ -57,5 +57,8 @@ diabetes_app = gr.Interface(
 )
 
 # Launch app
-diabetes_app.launch()
+diabetes_app.launch(
+    server_name="0.0.0.0",
+    server_port=8080,
+)
       
